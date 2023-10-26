@@ -1,15 +1,4 @@
-.header-content {
-  display: flex; 
-  align-items: center; 
-  padding: 10px 20px; 
-  background-image: url('https://www.brandburp.com/assets/images/industries/tour-banner.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 60vh;
-}
-.left-content{
-  color: rgb(236, 157, 10); 
-}
+
 .slide{
   height: 70vh;
   background-position: center;
@@ -26,10 +15,10 @@
   background-image: url('../public/Screenshot\ \(243\).jpg');
 }
 .slide2{
-  background-image: url('../public/TRUST.mp4');
+  background-image: url('../public/go\ \(2\).png');
 }
 .slide3{
-  background-image: url('../public/TRUST\ \(1\).mp4');
+  background-image: url('../public/chill\ \(2\).png');
 }
 .img{
   height: 35vh;
